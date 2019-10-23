@@ -23,7 +23,7 @@ Next, to play the game, you'll want to create a function called `moveDisc` that 
 ```js
 var moveDisc = function (startPeg, endPeg) {
   // write your code here ;)
-}
+};
 ```
 
 To call the function and play the game, you can do something like this:
